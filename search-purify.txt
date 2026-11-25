@@ -1,3 +1,6 @@
+! Title: FuckTheSite - 个人严选垃圾清扫规则
+! Expires: 1 days (update frequency)
+
 ! 屏蔽 Google 中的 垃圾网站
 google.com##div.MjjYud:has(a[href*="csdn.net"])
 google.com##div.MjjYud:has(a[href*="wk.baidu.com"])
