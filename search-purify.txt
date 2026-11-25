@@ -6,4 +6,4 @@ google.com##div.MjjYud:has(a[href*="wenku.baidu.com"])
 ! 屏蔽 Bing 中的 垃圾网站
 bing.com##li.b_algo:has(a[href*="csdn.net"])
 bing.com##li.b_algo:has(a[href*="wk.baidu.com"])
-bing.com##div.MjjYud:has(a[href*="wenku.baidu.com"])
+bing.com##li.b:algo:has(a[href*="wenku.baidu.com"])
